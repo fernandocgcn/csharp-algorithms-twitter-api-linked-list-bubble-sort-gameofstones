@@ -1,0 +1,11 @@
+
+*.drawio
+*.pdd
+misc/twitter-api.txt
+src/.vs
+src/Challenges/.vs
+src/Challenges/bin
+src/Challenges/obj
+src/Challenges/Questao01.cs
+src/TwitterApi/bin
+src/TwitterApi/obj
